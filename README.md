@@ -19,9 +19,7 @@ Este é um simples sistema bancário desenvolvido em Python que permite realizar
 ## Como Executar
 
 1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu_usuario/sistema-bancario-python-v2.git
+git clone https://github.com/leofontesrodrigues/sistema-bancario-python-v2.git
 
 2. Navegue até o diretório do projeto:
 cd sistema-bancario-python-v2
